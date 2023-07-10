@@ -1,6 +1,6 @@
-streamlit
-sklearn
+beautifulsoup4
+Distance
 fuzzywuzzy
-distance
-bs4
 nltk
+numpy
+streamlit
